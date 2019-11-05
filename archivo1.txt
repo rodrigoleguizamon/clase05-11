@@ -1,0 +1,3 @@
+linea 1 escrita por lu
+linea 2 escrita por lu
+linea 3 escrita por lu
