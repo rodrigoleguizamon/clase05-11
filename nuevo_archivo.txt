@@ -1,2 +1,4 @@
-function suma
-function resta
+haciendo
+cambios...
+explotará?
+
