@@ -1,11 +1,6 @@
-<<<<<<< HEAD
 Hola
 estoy haciendo
 cambios 
 en este 
-archivo!
-=======
-linea 1 escrita por lu
 linea 2 escrita por lu
 linea 3 escrita por lu
->>>>>>> ccf7c402b21f36acf70e63d15e730b395e2f38d6
